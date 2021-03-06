@@ -1,0 +1,52 @@
+body{
+	background:url(images/img1.jpg)
+	no-repeat center center fixed;
+	background-size: cover;
+	font-family: sans-serif;
+}
+.container{
+	padding:30px;
+	border-radius: 7px;
+	width: 30%;
+	
+	line-height: 2rem;
+	text-align: center;
+	margin: 75.983px 140px ;
+	background-color:#fff;
+	
+
+}
+.hr{
+	width: 80%;
+}
+
+.btn{
+	background-color: #ff847c;
+	color: #fff;
+}
+a{
+	text-decoration: none;
+}
+button{
+	background-color: #a8df65;
+	color: #fff;
+	border:none;
+	padding: 0.5rem 2rem;
+	border-radius: 5px;
+
+}
+.container input{
+	width: 70%;
+	padding: 0.5rem;
+}
+.container input[type=checkbox]{
+	width: auto;
+}
+.fb{
+	padding: 0.5rem;
+	background-color: #2ecc71;
+	font-size: 1rem;
+	width: 30%;
+	border-radius: 7px;
+
+}
